@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MegaDice</string>
+    <string name="button_text">Кинуть!</string>
+</resources>
